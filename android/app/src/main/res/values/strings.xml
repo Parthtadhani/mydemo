@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="facebook_app_id">1055701485131280</string>
+    <string name="app_name">parth</string>
+    <string name="fb_login_protocol_scheme">fb1055701485131280</string>
+    <string name="facebook_client_token">ef7b32b6380e3c468b3926ba42f8223a</string>
+</resources>
